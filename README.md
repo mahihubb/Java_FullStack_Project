@@ -2,14 +2,19 @@ User Management Application
 This User Management Application allows users to efficiently create, retrieve, update, and delete user information. The application is designed with a simple interface and incorporates backend operations through Java and JDBC. It’s a dynamic web project built to showcase user management functionality with CRUD operations.
 
 
-Features
+Features:
+
 Create User: Add new users with essential details such as name, email, and country.
+
 Retrieve User: View full user profiles and details stored in the database.
+
 Update User: Modify existing user data to ensure accurate and up-to-date information.
+
 Delete User: Remove users from the system when they are no longer active.
 
 
-Technologies Used
+Technologies Used:
+
 Java: Backend development.
 
 JDBC: For database connectivity.
@@ -26,7 +31,13 @@ Bootstrap: For responsive design.
 
 
 
+
+
+
 ![list](https://github.com/user-attachments/assets/87229bdd-d0fe-45d3-b985-76f2c60d76e5)
+
+
+
 
 
 
